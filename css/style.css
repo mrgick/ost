@@ -6146,6 +6146,10 @@ pre {
     margin-bottom: 16px
 }
 
+p {
+    text-align: justify;
+}
+
 .markdown-body hr {
     height: .25em;
     padding: 0;
